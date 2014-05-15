@@ -23,8 +23,7 @@ MacBook Pro (13-inch, Mid 2009)          	MacBookPro5,5
 
 # Spaces? Appears in the document. Have to test on real machine
 MacBook Pro (Retina, 15-inch, Late 2013) MacBookPro11,2 || MacBookPro11,3
-MacBook Pro (Retina, 15-inch, Early 2013)	MacBookPro10,1		
-MacBook Pro (Retina, Mid 2012)	MacBookPro10,1	
+MacBook Pro (Retina, 15-inch, Mid 2012/Early 2013)	MacBookPro10,1		
 MacBook Pro (15-inch, Mid 2012)	MacBookPro9,1	
 MacBook Pro (15-inch, Late 2011/Early 2011)	MacBookPro8,2	
 MacBook Pro (15-inch, Mid 2010)	MacBookPro6,2	
