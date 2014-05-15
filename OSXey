@@ -164,7 +164,6 @@ cpuText="${textColor}CPU:${normal}"
 memoryText="${textColor}Memory:${normal}"
 diskText="${textColor}Disk:${normal}"
 
-echo $modelname
 
 echo -e "
 
