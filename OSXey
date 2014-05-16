@@ -77,7 +77,7 @@ then
 	packagehandler=$brewpackages
 elif [ -f /opt/local/bin/port ] #don't think this is the right directory, need to check later.
 then 
-	macportpackages="`port installed | wc -l | awk '{print $1 }'`"
+	macportpackages="`port installed | wc -l | awk '{print $1 }'` (MacPorts)"
 	packagehandler=$macportpackages
 fi
 
