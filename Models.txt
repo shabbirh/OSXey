@@ -93,3 +93,15 @@ Mac Pro (Early 2008)	    MacPro3,1	MA970LL/A
 Mac Pro (8-core)	        MacPro2,1	MA1186/A
 Mac Pro	(original)          MacPro1,1	MA356LL/A
 
+# How to identify Mac Mini Models
+# Taken from MacTracker
+Mac Mini (Early/Late 2006) Macmini1,1
+Mac Mini (Mid 2007) Macmini2,1
+Mac Mini (Early/Late 2009) Macmini3,1
+Mac Mini (Mid 2010) Macmini4,1
+Mac Mini (Mid 2011) Macmini5,1
+Mac Mini (Mid 2011) Macmini5,2
+Mac Mini Server (Mid 2011) Macmini5,3
+Mac Mini (Late 2012) Macmini6.1
+Mac Mini Server (Late 2012) Macmini6,2
+
