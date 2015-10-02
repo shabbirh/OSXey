@@ -24,6 +24,7 @@ versionShort=${versionNumber:0:5}  # Cut sting to 1 decimal place for calculatio
 case $versionShort in
 	10.11)
 		versionString="El Capitan"
+		;;
 	10.10)
 		versionString="Yosemite"
 		;;
