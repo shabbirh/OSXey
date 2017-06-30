@@ -172,7 +172,6 @@ diskText="${textColor}Disk:${normal}"
 
 
 echo -e "
-
 ${GR}                     ,
 ${GR}                  ,##;            
 ${GR}                 ####             $userText $user
